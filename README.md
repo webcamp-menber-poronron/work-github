@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Application name :
+work-github
 
-Things you may want to cover:
+* Concise overview : 
+This is a practice application created with team development in mind.
 
-* Ruby version
+* Application URL : 
+git@github.com:webcamp-menber-poronron/work-github.git
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
