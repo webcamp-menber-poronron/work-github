@@ -5,20 +5,12 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version : 3.1.2p20
 
-* System dependencies
+* Application name : work-github
 
-* Configuration
+* Concise overview :
+This is a practice application created with team development in mind.
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Application URL :
+git@github.com:webcamp-menber-poronron/work-github.git
